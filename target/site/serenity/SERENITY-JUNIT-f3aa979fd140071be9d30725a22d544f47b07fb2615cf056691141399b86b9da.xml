@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Functionality.GmailFunctionality" skipped="0" tests="1" time="0.0" timestamp="2018-02-18T13:40:23.428+05:30[Asia/Calcutta]"><testcase classname="Functionality.GmailFunctionality" name="Initialisation"><error message="org.junit.runners.model.FrameworkMethod.getDeclaringClass()Ljava/lang/Class;" type="java.lang.NoSuchMethodError">org.junit.runners.model.FrameworkMethod.getDeclaringClass()Ljava/lang/Class;</error><system-err>org.junit.runners.model.FrameworkMethod.getDeclaringClass()Ljava/lang/Class;&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+</system-err></testcase></testsuite>
